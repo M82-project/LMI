@@ -1,4 +1,4 @@
-DETECTER,,INFORMER,,MEMORISER;;AGIR;
+DETECTER;;INFORMER;;MEMORISER;;AGIR;
 TA0011: Information préexistante : Technique utilise des informations préexistantes ou des croyances établies pour capter l’attention de la cible.;TE0111Heuristique de disponibilité;TA0021: Création d’un motif Technique qui permet de mettre en récit une information reçu, de l’intégrer dans un contexte préexistant.;T0211: biais de corrélation illusoire;;;;
 ;TE0112 Effet de simple exposition;;T0212: Biais de la preuve anecdotique;;;;
 ;TE0113 Illusion de fréquence;;T0213: Illusion des séries;;;;
