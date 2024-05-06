@@ -22,8 +22,8 @@ Technique qui simplifie les concepts et favorise les ordres de grandeurs pour fa
 ## TE0241 Biais de la somme nulle
 ## TE0242 Biais de normalité
 
-# TA0025 Autocentrage
-Techique qui favorise l'impression
+# TA0025 Auto-référence 
+Techique qui exploite les fait que la cible pense que ses interlocuteurs ont le même niveau de connaissance et partage des références communes.
 
 
 # TA0026 Projection temporelle
