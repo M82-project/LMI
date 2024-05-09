@@ -1,0 +1,53 @@
+{
+  "techniques": [
+    {
+      "id": "TA0021",
+      "nom": "Création d'un motif",
+      "description": "Technique qui permet de mettre en récit une information reçu, de l'intégrer dans un contexte préexistant."
+    },
+    {
+      "id": "TA0022",
+      "nom": "Généralisation et renforcement de stéréotypes",
+      "description": "Technique qui vise à simplifier une ou des informlations perçues pour les rendre acceptable et/ou intelligible par la cible"
+    },
+    {
+      "id": "TA0023",
+      "nom": "Supériorité familière",
+      "description": "Technique qui permet de valoriser une informaiton aux yeux de la cible par exploitation des proximités",
+      "techniques_enfants": [
+        {
+          "id": "TE0231",
+          "nom": "Biais d'homogénéité"
+        },
+        {
+          "id": "TE0232",
+          "nom": "Biais de la route connue"
+        }
+      ]
+    },
+    {
+      "id": "TA0024",
+      "nom": "simplication",
+      "description": "Technique qui simplifie les concepts et favorise les ordres de grandeurs pour faciliter l'acceptabilité d'une informaiton",
+      "techniques_enfants": [
+        {
+          "id": "TE0241",
+          "nom": "Biais de la somme nulle"
+        },
+        {
+          "id": "TE0242", 
+          "nom": "Biais de normalité"
+        }
+      ]
+    },
+    {
+      "id": "TA0025",
+      "nom": "Auto-référence",
+      "description": "Techique qui exploite les fait que la cible pense que ses interlocuteurs ont le même niveau de connaissance et partage des références communes."
+    },
+    {
+      "id": "TA0026",
+      "nom": "Projection temporelle"
+    }
+  ]
+}
