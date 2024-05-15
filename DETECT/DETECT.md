@@ -6,8 +6,6 @@ Technique qui utilise des informations préexistantes ou des croyances établies
 
 ## TE0112: Effet de simple exposition
 
-## TE0113: Illusion de fréquence
-
 # TA0012: Information à exposition répétée
 Technique qui repose sur l’exploitation de la répétition de l’information en vue de faciliter sa détection par la cible.
 
