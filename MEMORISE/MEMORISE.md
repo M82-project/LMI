@@ -4,7 +4,8 @@ Technique qui favorise la mémorisation et la construction de souvenirs par renf
 
 ## TE0312 : biais de confusion de source
 ## TE0313 : effet d'espacement
-## TE0314. : Effet de suggestion
+## TE0314 : Effet de suggestion
+## TE0315 : [Effet de génération](https://en.wikipedia.org/wiki/Generation_effect) 
 
 # TA0032 Renforcement pré-existant
 Technique qui favorise la mémorisation d'une information en s'appuyant sur des stéréotypes ou des croyances pré-existantes	
