@@ -1,6 +1,6 @@
 
 # TA0031 Renforcement indirect
-Technique qui favorise la mémorisation et la construction de souvenirs par renforcement de sources secondaires	
+Tactique qui favorise la mémorisation et la construction de souvenirs par renforcement de sources secondaires	
 
 ## TE0312 : biais de confusion de source
 ## TE0313 : effet d'espacement
@@ -8,14 +8,14 @@ Technique qui favorise la mémorisation et la construction de souvenirs par renf
 ## TE0315 : [Effet de génération](https://en.wikipedia.org/wiki/Generation_effect) 
 
 # TA0032 Renforcement pré-existant
-Technique qui favorise la mémorisation d'une information en s'appuyant sur des stéréotypes ou des croyances pré-existantes	
+Tactique qui favorise la mémorisation d'une information en s'appuyant sur des stéréotypes ou des croyances pré-existantes	
 
 ## TE0321 : [Stéréotype implicite](https://en.wikipedia.org/wiki/Implicit_stereotype)
 ## TE0322 : [Effacement négatif](https://en.wikipedia.org/wiki/Fading_affect_bias)
 ## TE0323 : [Effet de contexte](https://books.openedition.org/editionsmsh/14811)
 
 # TA0033 Exposition de contenus
-Technique qui favorise la surexposition à une information pour favoriser sa mémorisation
+Tactique qui favorise la surexposition à une information pour favoriser sa mémorisation
 
 ## TE0331 : [Effet de récence](https://www.toupie.org/Biais/Effet_recence.htm)
 ### Définition
