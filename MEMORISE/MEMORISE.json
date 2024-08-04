@@ -2,7 +2,7 @@
   {
     "id": "TA0031",
     "name": "Renforcement indirect",
-    "description": "Technique qui favorise la mémorisation et la construction de souvenirs par renforcement de sources secondaires",
+    "description": "Tactique qui favorise la mémorisation et la construction de souvenirs par renforcement de sources secondaires",
     "techniques": [
       {
         "id": "TE0312",
@@ -21,7 +21,7 @@
   {
     "id": "TA0032",
     "name": "Renforcement pré-existant",
-    "description": "Technique qui favorise la mémorisation d'une information en s'appuyant sur des stéréotypes ou des croyances pré-existantes",
+    "description": "Tactique qui favorise la mémorisation d'une information en s'appuyant sur des stéréotypes ou des croyances pré-existantes",
     "techniques": [
       {
         "id": "TE0321",
@@ -43,7 +43,7 @@
   {
     "id": "TA0033",
     "name": "Exposition de contenus",
-    "description": "Technique qui favorise la surexposition à une information pour favoriser sa mémorisation",
+    "description": "Tactique qui favorise la surexposition à une information pour favoriser sa mémorisation",
     "techniques": [
       {
         "id": "TE0331",
