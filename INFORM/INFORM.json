@@ -2,7 +2,7 @@
   {
     "id": "TA0021",
     "titre": "Création d'un motif",
-    "description": "Technique qui permet de mettre en récit une information reçu, de l'intégrer dans un contexte préexistant."
+    "description": "Tactique qui permet de mettre en récit une information reçu, de l'intégrer dans un contexte préexistant."
   },
   {
     "id": "TE0211",
@@ -19,12 +19,12 @@
   {
     "id": "TA0022",
     "titre": "Généralisation et renforcement de stéréotypes",
-    "description": "Technique qui vise à simplifier une ou des informlations perçues pour les rendre acceptable et/ou intelligible par la cible"
+    "description": "Tactique qui vise à simplifier une ou des informlations perçues pour les rendre acceptable et/ou intelligible par la cible"
   },
   {
     "id": "TA0023",
     "titre": "Supériorité familière",
-    "description": "Technique qui permet de valoriser une informaiton aux yeux de la cible par exploitation des proximités",
+    "description": "Tactique qui permet de valoriser une informaiton aux yeux de la cible par exploitation des proximités",
     "techniques": [
       {
         "id": "TE0231",
@@ -39,7 +39,7 @@
   {
     "id": "TA0024",
     "titre": "simplication",
-    "description": "Technique qui simplifie les concepts et favorise les ordres de grandeurs pour faciliter l'acceptabilité d'une informaiton",
+    "description": "Tactique qui simplifie les concepts et favorise les ordres de grandeurs pour faciliter l'acceptabilité d'une informaiton",
     "techniques": [
       {
         "id": "TE0241",
@@ -54,8 +54,8 @@
   {
     "id": "TA0025",
     "titre": "Auto-référence",
-    "description": "Techique qui exploite les fait que la cible pense que ses interlocuteurs ont le même niveau de connaissance et partage des références communes.",
-    "techniques": [
+    "description": "Tactique qui exploite les fait que la cible pense que ses interlocuteurs ont le même niveau de connaissance et partage des références communes.",
+    "Tactiques": [
       {
         "id": "TE00251",
         "titre": "Effet de faux consensus",
@@ -66,7 +66,7 @@
   {
     "id": "TA0026",
     "titre": "Projection temporelle",
-    "description": "Technique qui sappuie sur les souvenirs (réels ou forgés) pour crédibiliser un discours ou une information.",
+    "description": "Tactique qui sappuie sur les souvenirs (réels ou forgés) pour crédibiliser un discours ou une information.",
     "techniques": [
       {
         "id": "TE0261",
