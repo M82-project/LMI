@@ -13,7 +13,7 @@ Tactique qui favorise la réalisation d'actions déjà engagées.
 #TA0043 : Ozaekomi waza (contrôle par immobilisation)
 Tactique qui consiste à favoriser chez une cible, l'immobilisme et l'absence d'action.
 
-## TE0431 : Biais d'ommission
+## TE0431 : Biais d'omission
 Le biais d'omission consiste à considérer que causer éventuellement un tort par une action est pire que causer un tort par l’inaction. Ainsi, le biais d'omission pourrait contribuer à expliquer que, dans l'incertitude, certains choisiront de refuser la vaccination pour leurs enfants. 
 
 <https://www.psychomedia.qc.ca/psychologie/biais-cognitifs>
