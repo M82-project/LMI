@@ -6,6 +6,19 @@ Tactique qui valorisent le jugement personnel et la confiance en soi.
 ## TE0413 : Supériorité illusoire
 
 # TA0042 Renforcement escalatoire 
-Tactique qui favorise la réalisation d'actions déjà engagées 
+Tactique qui favorise la réalisation d'actions déjà engagées. 
 
 ## TE0421 : biais des coûts irrécupérables
+
+#TA0043 : Ozaekomi waza (contrôle par immobilisation)
+Tactique qui consiste à favoriser chez une cible, l'immobilisme et l'absence d'action.
+
+## TE0431 : Biais d'ommission
+Le biais d'omission consiste à considérer que causer éventuellement un tort par une action est pire que causer un tort par l’inaction. Ainsi, le biais d'omission pourrait contribuer à expliquer que, dans l'incertitude, certains choisiront de refuser la vaccination pour leurs enfants. 
+
+<https://www.psychomedia.qc.ca/psychologie/biais-cognitifs>
+
+## TE0432 : Biais du statu quo
+Le biais de statu quo est la tendance à préférer laisser les choses telles qu'elles sont, un changement apparaissant comme apportant plus de risques et d'inconvénients que d'avantages possibles. Dans divers domaines, ce biais explique des choix qui ne sont pas les plus rationnels. (Un biais se rapprochant du biais de statu quo est celui de la tendance à la justification du système.) 
+
+<https://www.psychomedia.qc.ca/>
