@@ -10,6 +10,7 @@ Tactique qui favorise la réalisation d'actions déjà engagées.
 
 ## TE0421 : biais des coûts irrécupérables
 
+
 #TA0043 : Ozaekomi waza (contrôle par immobilisation)
 Tactique qui consiste à favoriser chez une cible, l'immobilisme et l'absence d'action.
 
