@@ -9,9 +9,11 @@ Tactique qui valorisent le jugement personnel et la confiance en soi.
 Tactique qui favorise la réalisation d'actions déjà engagées. 
 
 ## TE0421 : biais des coûts irrécupérables
+## TE0422 : biais d'autorité
+Tendance à accorder plus de crédibilité ou à suivre les directives de personnes perçues comme étant en position d'autorité.
 
 
-#TA0043 : Ozaekomi waza (contrôle par immobilisation)
+# TA0043 : Ozaekomi waza (contrôle par immobilisation)
 Tactique qui consiste à favoriser chez une cible, l'immobilisme et l'absence d'action.
 
 ## TE0431 : Biais d'omission
