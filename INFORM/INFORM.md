@@ -7,6 +7,8 @@ Tactique qui permet de mettre en récit une information reçu, de l’intégrer 
 
 # TA0022: Généralisation et renforcement de stéréotypes
 Tactique qui vise à simplifier une ou des informlations perçues pour les rendre acceptable et/ou intelligible par la cible
+## TE0221 : Effet de retournement
+Tendance à renforcer ses croyances préexistantes lorsqu'on est confronté à des informations contradictoires, malgré des preuves contraires.
 
 
 
