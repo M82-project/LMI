@@ -24,7 +24,7 @@ Le biais d'omission consiste à considérer que causer éventuellement un tort p
 ## TE0432 : Biais du statu quo
 Le biais de statu quo est la tendance à préférer laisser les choses telles qu'elles sont, un changement apparaissant comme apportant plus de risques et d'inconvénients que d'avantages possibles. Dans divers domaines, ce biais explique des choix qui ne sont pas les plus rationnels. (Un biais se rapprochant du biais de statu quo est celui de la tendance à la justification du système.) 
 
-## TE0433 : saturation informationelle
+## TE0433 : saturation informationnelle
 Technique qui consiste à saturer la cible d’information afin de limiter sa capacité de traitement et in fine paralyser la décision.
 La saturation informationnelle vise à déclencher le processus de "paralysie de l'analyse."
 <https://fourweekmba.com/fr/paralysie-d%27analyse/>
