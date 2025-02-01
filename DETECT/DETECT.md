@@ -50,7 +50,7 @@ https://fr.wikipedia.org/wiki/Ancrage_(psychologie)
 
 
 ## TE0143: Effet de contraste
-L'effet de contraste est une tactique dans laquelle on va modifier la perception d'un fait en favorisant la comparaison avec un autre précédemment observé. C'est phénomène psychologique dans lequel la perception d’un objet ou d’une expérience est modifiée en fonction de sa comparaison avec un autre objet ou expérience récemment observé.
+L'effet de contraste est une tactique dans laquelle on va modifier la perception d'un fait en favorisant la comparaison avec un autre précédemment observé. C'est un phénomène psychologique dans lequel la perception d’un objet ou d’une expérience est modifiée en fonction de sa comparaison avec un autre objet ou expérience récemment observé.
 https://biais-cognitif.com/biais/effet-de-contraste/
 
 # TA0015: Détail signifiant
