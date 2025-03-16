@@ -1,14 +1,14 @@
-# DIMA
+# LMI
+
+Les objetcifs de ce projet sont de:
+
+- Definir la matrice DIMA dans le domaine de la lutte contre la manipulation de l'information.
+- Definir les biais cognitifs et les techniques de manipulation de l'information.
+- Definir les tactiques de lutte contre la manipulation de l'information.
+- Détailler des cas d'usages de la matrice DIMA et de DISARM le but étant de voir leur complémentarité.
+
+## DIMA
+
 DIMA is a framework to identify attempts to exploit cognitive biases in information flow.
 
-# How does it works ?
-The matrix is divided into four phases (Detect - inform - Memorize - Act).
-These phases bring together tactics (TA XXXX) which exploit biases which are techniques (TE XXXX).
-
-# How can I help ?
-You can propose updates and PR on any of the markdown files !
-
-
-contact us : contact@M82-project.org
-
-
+## DISARM
