@@ -9,6 +9,8 @@ Les objetcifs de ce projet sont de:
 
 ## DIMA
 
-DIMA is a framework to identify attempts to exploit cognitive biases in information flow.
+DIMA est un cadre pour identifier les tentatives d'exploitation des biais cognitifs dans le flux d'informations
 
 ## DISARM
+
+DISARM est un cadre pour identifier les tentatives de manipulation de l'information.
